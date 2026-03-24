@@ -1,2 +1,9 @@
 # ai-in-class
 A legal aid organization receives more requests than it can handle. Your skill should help Claude perform initial intake — gathering facts, classifying the legal issue, assessing urgency, and directing the person to appropriate resources.
+# [Legal Aid Intake]  
+## What This Skill Does  [My Skill helps legal aid do intake of their clients as they have to much to handle. It handles volumes of client information to create summaries for attorneys giving legal advice. The intended user is the attorney who may convey or confirm the information to the client. It is to aid with efficiency and organization.]  
+## How to Use  1. Download the `SKILL.md` file from this repository 2. Go to claude.ai → Settings → Skills 3. Upload the `SKILL.md` file 4. Toggle the skill on 5. Start a new conversation and try one of the sample prompts below  
+## Sample Prompts  Try these prompts to test the skill:  - "[Your first test prompt]" - "[Your second test prompt]"  ## Design Notes  - **Scenario:** [Option C from the exercise] - **Workflow steps:** [First step — Ask what the client’s goal is. Second step — Ask what area of law is involved in the client’s goal. Third step — Pull out all of the relevant information from the intake. Fourth step — Order the relevant information by most important. Fifth step — Provide an intake summary document presenting the information] - **Key design choice:** [What was the most important decision   you made when building this skill?]  
+## Disclaimer  This skill provides general legal information only — not legal advice. It was created as a class project for LAW 5642: Legal Analytics and Generative AI at LSU Law School. Users should consult a licensed attorney for guidance specific to their situation.  
+## Author  [Kailee Hair] · LSU Law School · Spring 2026  
+## License  MIT License — see LICENSE file for details.
